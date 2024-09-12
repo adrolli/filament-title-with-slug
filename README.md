@@ -82,7 +82,7 @@ Visit the plugin's [Composer Packagist page](https://packagist.org/packages/camy
 You can install the package via composer:
 
 ```bash
-composer require camya/filament-title-with-slug
+composer require adrolli/filament-title-with-slug
 ```
 
 If needed, you can publish the config file with:
